@@ -1,0 +1,27 @@
+Rules
+=====
+When scenarios are tied, rest periods count as either sleep or social (whichever is more intuitive based on time)
+
+In Cases where no designated sleep is present (for a single character), relaxation during average sleep hours for that class are considered as sleep instead
+
+All exceptions will be omitted from their class's average schedule, they will still be counted towards their class's NPC proportion however as percentages of NPC types are unaffected by what these characters are doing.
+
+Anomalies/Exceptions
+=======================
+In Class Children: Dagny, Frothar, and Nelkir are all the Jarl's children and as such remain solely within one location, therefore have no documented schedule as they have knowhere to move to, as such they shall not be counted.
+
+Also In Class Children: Lucia is the only child who is also a beggar, and therefore the only one who has a work schedule, as such the work portions are not considered when looking at the averages.
+
+In Class Imperial Soldier: Sinmir, sole class member spends all time sitting around Bannered Mare, does not sleep or ever leave and thus cannot be considered a realistic view and shall not be counted, as no timetable can be determined for this class, Sinmir's number shall be counted towards the Warrior class as the closest tie to Imperial Soldier.
+
+In Class Fletcher: Elrindir, the sole class member spends all time working in the Drunken Hunstman, he does not eat, sleep, relax or ever leave and thus cannot be considered a realistic view and shall not be counted,  as no timetable can be determined for this class, Elrindir's number shall be counted towards the Scout class like his brother Anoriath.
+
+In Class Pawnbroker: Hulda spends every hour tending the bar in the Bannered Mare, she does not eat, sleep, relax or ever leave and thus cannot be considered a realistic view and shall not be counted.
+
+In Class Priest, Danica Pure-Spring never sleeps and thus cannot be considered a realistic view and shall not be counted.
+
+In Class Ranger: Jenassa, sole class member spends all time sitting around Drunken Huntsman, does not sleep or ever leave and thus cannot be considered a realistic view and shall not be counted, as no timetable can be determined for this class, Jenassa's number shall be counted towards the Scout class as the closest tie to Ranger.
+
+In Class Warrior: Avulstein Gray-Mane is in hiding and therefore never leaves his house, due to the lack of movement and scheduling he will not be counted towards the average timetable for the Warrior class. Uthgerd the Unbroken like Sinmir, spends all time sitting around Bannered Mare, does not sleep or ever leave and thus cannot be considered a realistic view and shall not be counted.
+
+
